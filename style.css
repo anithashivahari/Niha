@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(90deg, hsla(169, 98%, 64%, 1) 0%, hsla(336, 98%, 62%, 1) 100%);;
+}
+.hi{
+    color: #00FFCD;
+  font-family: 'Comic Neue', cursive;;
+box-shadow: 5px 5px black;
+border: 5px dotted #A755C2;
+border-style: dotted;
+}
+canvas{
+    border-radius: 20px;
+    box-shadow: 5px 5px #A755C2;
+    background: linear-gradient(90deg, hsla(336, 100%, 50%, 1) 0%, hsla(264, 100%, 50%, 1) 100%);
+}
+#project{
+    color: #57E2E5;
+    position:fixed;
+    bottom: 0;
+    font-size: medium;
+    font-family: 'Comic Neue', cursive;
+    width: 100%;
+    background:#D90368
+
+}
